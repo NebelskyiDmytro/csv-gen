@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="public/placeholder-logo.svg" alt="CSV Generator Logo" width="200" />
-</p>
-
 # CSV Generator
 
 Create custom CSV files with a beautiful, modern UI. Instantly generate realistic datasets for testing, development, or analytics — with support for dozens of data types and an AI-powered column generator.
